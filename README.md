@@ -4,7 +4,7 @@
 
 ### 
 
-**Ex- TEchnical Consultant | Associate Technical Writer**
+**Ex- Technical Consultant | Associate Technical Writer**
 
 * * *
 
