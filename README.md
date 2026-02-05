@@ -1,2 +1,66 @@
-# ONLY_CLI_DOCUMENTATION
-This repo serves as the working list of only CLI Documentation
+# 🖥️ CLI Documentation Portfolio: Command-Line Experience (CLX)
+
+### 👤 Shishir Shreedhar Tambe
+
+### 
+
+**Ex- TEchnical Consultant | Associate Technical Writer**
+
+* * *
+
+## 💡 Philosophy: Documentation as an Interface
+
+### 
+
+In the "Docs-as-Code" world, CLI documentation isn't just a list of commands; it is a user interface. My goal is to reduce "Time-to-First-Success" by creating command references that are logically structured, easy to parse, and rich with real-world examples.
+
+## 🛠️ Technical Talent Stack
+
+### 
+
+*   **Syntax:** POSIX-compliant command structures, flags, and arguments.
+    
+*   **Workflows:** Installation scripts, configuration management, and troubleshooting.
+    
+*   **Tools:** Markdown, Git, GitHub Codespaces, and Linux/Bash environments.
+    
+
+* * *
+
+## 📂 All CLI Projects worked 
+
+1. Add comprehensive sdk methods: https://github.com/reclaimprotocol/docs/pull/106
+2. Clarify CLI help text and add usage examples: https://github.com/isha-1686/gitGoingFOSSRepo/pull/12
+3. Finalize verified CLI reference with correct migration paths: https://github.com/envm-org/envm/pull/325
+4. Add manpage in markdown and roff format: https://github.com/sp29174/GreenhousePython/pull/99
+
+* * *
+
+## 📐 My Documentation Standards
+
+### 
+
+1.  **The Help Command Rule:** Every command must be explained as clearly as the `--help` output.
+    
+2.  **Contextual Examples:** I never provide a command without a real-world use-case example.
+    
+3.  **Error Empathy:** I document what happens when things go _wrong_, not just when they go right.
+    
+
+* * *
+
+## 📈 Real-World Application
+
+### 
+
+I currently apply these high-resolution documentation standards to cybersecurity products including **EDR, XDR, and EMM** at **MicroWorld Software Solutions**. My work bridges the gap between complex security protocols and actionable terminal commands.
+
+* * *
+
+### 📫 Let's Build Better Tools
+
+### 
+
+*   **LinkedIn:** [shishir-tambe](https://linkedin.com/in/shishir-tambe)
+    
+*   **Email:** [shishirtambe01@gmail.com](mailto:shishirtambe01@gmail.com)
