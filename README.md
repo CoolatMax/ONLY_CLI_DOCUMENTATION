@@ -34,7 +34,8 @@ In the "Docs-as-Code" world, CLI documentation isn't just a list of commands; it
 3. Finalize verified CLI reference with correct migration paths: https://github.com/envm-org/envm/pull/325
 4. Add manpage in markdown and roff format: https://github.com/sp29174/GreenhousePython/pull/99
 5. Write CLI documentation and usage guide: https://github.com/lvnacy/chromamancer/pull/8
-6. create initial CLI reference for RIGS-844: https://github.com/Fnux8890/rigs/pull/174
+6. Create initial CLI reference for RIGS-844: https://github.com/Fnux8890/rigs/pull/174
+7. Man Pages Creation: https://github.com/Pranav-Karra-3301/tuck/pull/85
 
 * * *
 
