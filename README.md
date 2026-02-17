@@ -1,5 +1,9 @@
 # 🖥️ CLI Documentation Portfolio: Command-Line Experience (CLX)
 
+<p align="center">
+<img src="https://github.com/user-attachments/assets/36f6e876-fbe5-472d-a55d-35e2b1ec26cd" width="400" alt="CLI Demo">
+</p>
+
 ### 👤 Shishir Shreedhar Tambe
 
 ### 
