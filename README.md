@@ -33,13 +33,12 @@ In the "Docs-as-Code" world, CLI documentation isn't just a list of commands; it
 
 ## 📂 All CLI Projects worked 
 
-1. Add comprehensive sdk methods: https://github.com/reclaimprotocol/docs/pull/106
-2. Clarify CLI help text and add usage examples: https://github.com/isha-1686/gitGoingFOSSRepo/pull/12
-3. Finalize verified CLI reference with correct migration paths: https://github.com/envm-org/envm/pull/325
-4. Add manpage in markdown and roff format: https://github.com/sp29174/GreenhousePython/pull/99
-5. Write CLI documentation and usage guide: https://github.com/lvnacy/chromamancer/pull/8
-6. Create initial CLI reference for RIGS-844: https://github.com/Fnux8890/rigs/pull/174
-7. Man Pages Creation: https://github.com/Pranav-Karra-3301/tuck/pull/85
+1. Clarify CLI help text and add usage examples: https://github.com/isha-1686/gitGoingFOSSRepo/pull/12
+2. Finalize verified CLI reference with correct migration paths: https://github.com/envm-org/envm/pull/325
+3. Add manpage in markdown and roff format: https://github.com/sp29174/GreenhousePython/pull/99
+4. Write CLI documentation and usage guide: https://github.com/lvnacy/chromamancer/pull/8
+5. Create initial CLI reference for RIGS-844: https://github.com/Fnux8890/rigs/pull/174
+6. Man Pages Creation: https://github.com/Pranav-Karra-3301/tuck/pull/85
 
 * * *
 
